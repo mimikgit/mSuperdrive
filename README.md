@@ -1,6 +1,6 @@
-# Objectives
+# mSuperdrive
 
-This example covers how to install and deploy the mSuperdrive microservice to the edgeSDK runtime. The mimik team created this microservice for mimik access to enable device clustering among edge devices. These are the main functionalities:
+This instruction covers how to install and deploy the mSuperdrive microservice to the edgeSDK runtime. The mimik team created this microservice for mimik access to enable device clustering among edge devices. These are the main functionalities:
 
 1. Provide Local and Global Device Discovery.
 
@@ -10,7 +10,9 @@ This example covers how to install and deploy the mSuperdrive microservice to th
 
 4. Data Transfer End Point Creation (BEP/SEP)
 
-## Run microservice
+## Deploy to edgeSDK
+
+For latest update: https://developer.mimik.com/docs/microservices/deploy
 
 1. Install the superdrive-v1.tar image on edgeSDK mCM container using bearer token 
 
